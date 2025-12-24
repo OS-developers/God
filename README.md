@@ -1,4 +1,4 @@
-# God
+# God-Projects
 In this repository I make things to spread the word of god
 ----
 All source code in this repository is free to use.
